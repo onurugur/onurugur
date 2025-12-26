@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=onurugur" alt="onurugur" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
