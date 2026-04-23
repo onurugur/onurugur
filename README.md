@@ -53,9 +53,14 @@ developer = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onurugur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)](https://github.com/onurugur)
+<!-- Yıllık commit / PR / issue / code review sayıları -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onurugur&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&custom_title=2025–2026%20Activity)](https://github.com/onurugur)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurugur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/onurugur)
+<!-- Ateş serisi — kaç gün üst üste katkı yapıldı -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=onurugur&theme=tokyonight-duo&hide_border=true&background=0D1117&dates=8B949E&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E)](https://github.com/onurugur)
+
+<!-- En çok kullanılan diller — donut grafiği -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurugur&layout=donut&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/onurugur)
 
 </div>
 
